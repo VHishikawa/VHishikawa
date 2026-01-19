@@ -7,7 +7,7 @@ Engenheiro de Dados Pleno em uma jornada para masterizar sistemas distribuídos,
 ---
 
 ### 🛡️ Personagem & Skills
-* **Classe:** Data Engineer / Homelab Architect
+* **Classe:** Data Engineer / Homelab Enthusiast
 * **Leveling:** Atualmente em busca da maestria em Python & Infra (Ato I)
 * **Main Quest:** Desenvolver o `quati-data-stack` e o projeto `Atlas`
 * **Homelab:** 3-node Proxmox Cluster + K8s + Terraform + Ansible
