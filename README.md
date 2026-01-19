@@ -22,8 +22,3 @@ Nem só de código vive um dev. Quando o terminal fecha, você me encontra:
 
 > *“A wrong answer isn’t a meaningless one”* - Hubert(orb)
 
----
-
-### 🛠️ Toolbox
-`Python` | `Go` | `SQL` | `Docker` | `Kubernetes` | `Terraform` | `Ansible` | `Proxmox` | `Fedora`
-
