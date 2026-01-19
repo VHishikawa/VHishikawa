@@ -24,13 +24,6 @@ Nem só de código vive um dev. Quando o terminal fecha, você me encontra:
 
 ---
 
-### 🚀 Status da Odisseia
-- [ ] **Ato I:** Domínio de Python, PySpark & Polars (Em progresso)
-- [ ] **Ato II:** Arquitetura Go & TypeScript
-- [ ] **Side Quest:** Extração de dados do League of Legends
-
----
-
 ### 🛠️ Toolbox
 `Python` | `Go` | `SQL` | `Docker` | `Kubernetes` | `Terraform` | `Ansible` | `Proxmox` | `Fedora`
 
