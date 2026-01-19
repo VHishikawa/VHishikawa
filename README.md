@@ -34,7 +34,3 @@ Nem só de código vive um dev. Quando o terminal fecha, você me encontra:
 ### 🛠️ Toolbox
 `Python` | `Go` | `SQL` | `Docker` | `Kubernetes` | `Terraform` | `Ansible` | `Proxmox` | `Fedora`
 
----
-
-📫 **Como me encontrar:**
-*(Adicione seus links de contato aqui)*
