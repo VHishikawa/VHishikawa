@@ -1,16 +1,40 @@
-## Hi there 👋
+# ⚔️ A Odisseia do Programador
 
-<!--
-**VHishikawa/VHishikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "Data is my craft, infrastructure is my playground."
 
-Here are some ideas to get you started:
+Engenheiro de Dados Pleno em uma jornada para masterizar sistemas distribuídos, nuvens privadas e arquiteturas robustas. Atualmente operando em **Fedora Linux** e buildando o ecossistema **Quati**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛡️ Personagem & Skills
+* **Classe:** Data Engineer / Homelab Architect
+* **Leveling:** Atualmente em busca da maestria em Python & Infra (Ato I)
+* **Main Quest:** Desenvolver o `quati-data-stack` e o projeto `Atlas`
+* **Homelab:** 3-node Proxmox Cluster + K8s + Terraform + Ansible
+
+---
+
+### 🏮 Além do Terminal (Interesses & Animes)
+Nem só de código vive um dev. Quando o terminal fecha, você me encontra:
+* **Otaku Mode:** Assistindo animes e acompanhando histórias épicas.
+* **Gaming:** Estratégia e mundos imersivos (estilo BG3).
+* **Building:** Sempre mexendo no hardware ou otimizando meu setup.
+
+> *“A wrong answer isn’t a meaningless one”* - Hubert(orb)
+
+---
+
+### 🚀 Status da Odisseia
+- [ ] **Ato I:** Domínio de Python, PySpark & Polars (Em progresso)
+- [ ] **Ato II:** Arquitetura Go & TypeScript
+- [ ] **Side Quest:** Extração de dados do League of Legends
+
+---
+
+### 🛠️ Toolbox
+`Python` | `Go` | `SQL` | `Docker` | `Kubernetes` | `Terraform` | `Ansible` | `Proxmox` | `Fedora`
+
+---
+
+📫 **Como me encontrar:**
+*(Adicione seus links de contato aqui)*
